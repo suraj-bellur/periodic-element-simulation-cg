@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1655118436 source:c:\users\suraj\desktop\atom-simulation-main\main.cpp
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+
+1655352132 source:c:\suraj\glut\atom simulation\main.cpp
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+
+1656940028 source:c:\suraj\glut\atom simulation - copy\main.cpp
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+
+1656940028 source:c:\users\suraj\desktop\the folder\codes\glut\atom simulation - copy\main.cpp
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+
